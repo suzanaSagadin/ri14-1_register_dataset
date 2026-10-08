@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it together with the Regesta Imperii sources listed in README.md."
+title: "RI XIV,1 Register Dataset: entity-level ground truth for person reconciliation in the regests of Maximilian I. (1493-1495)"
+type: dataset
+version: 0.2.0
+date-released: 2026-10-08
+license: CC-BY-4.0
+authors:
+  - family-names: Sagadin
+    given-names: Suzana
+notes: "Mention strings were located automatically and then reviewed with Claude Fable 5.1 (Anthropic, model claude-fable-5-1) following curation/INSTRUCTIONS.md; entity types were assigned with Claude Sonnet 5.5 and reviewed with Claude Opus 5.5 following curation/INSTRUCTIONS_types.md; see README.md, sections Mention curation and Type curation."
+references:
+  - type: book
+    title: "Regesta Imperii XIV. Ausgewählte Regesten des Kaiserreiches unter Maximilian I. 1493-1519, Bd. 1: 1493-1495"
+    editors:
+      - family-names: Wiesflecker
+        given-names: Hermann
+    year: 1990
+  - type: book
+    title: "Regesta Imperii XIV, Bd. 1: Register der Personen- und Ortsnamen 1493-1495"
+    editors:
+      - family-names: Schuh
+        given-names: Angelika
+    year: 1996
+  - type: data
+    title: "Regesta Imperii Online / RI Lab data repository"
+    url: "https://gitlab.rlp.net/adwmainz/regesta-imperii/lab/regesta-imperii-data"
+    license: CC-BY-4.0

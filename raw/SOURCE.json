@@ -1,0 +1,22 @@
+{
+  "repository": "https://gitlab.rlp.net/adwmainz/regesta-imperii/lab/regesta-imperii-data",
+  "downloaded_at": "2026-10-06T10:08:48+00:00",
+  "files": {
+    "RI_14.csv": {
+      "source_path": "data/regesta-csv/RI_14.csv",
+      "url": "https://gitlab.rlp.net/adwmainz/regesta-imperii/lab/regesta-imperii-data/-/raw/main/data/regesta-csv/RI_14.csv",
+      "bytes": 31202054,
+      "sha256": "fd284b985c2a1dd0d078019265e4e3ab27eab3d072300458160977ea05100d7a"
+    },
+    "ri_14_1_register.doc": {
+      "source_path": "archive/RegestenUndRegister/abt-14/ri_14,1-maximilian_1493-1495/ri_14,1-maximilian_1493-1495_register.doc",
+      "url": "https://gitlab.rlp.net/adwmainz/regesta-imperii/lab/regesta-imperii-data/-/raw/main/archive/RegestenUndRegister/abt-14/ri_14,1-maximilian_1493-1495/ri_14,1-maximilian_1493-1495_register.doc",
+      "bytes": 6772736,
+      "sha256": "9ed0ccbb18341a042eef7a92b921023ced7461b7476d638499829b19be1b2494"
+    }
+  },
+  "commit": {
+    "sha": "182ce5fcd64914cc611e162d62a871f22629dff1",
+    "committed_date": "2026-06-23T16:41:41.000+02:00"
+  }
+}

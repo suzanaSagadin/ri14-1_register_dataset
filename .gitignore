@@ -1,0 +1,8 @@
+# raw downloads are re-fetched by build.py; provenance is kept in raw/SOURCE.json
+raw/*
+!raw/SOURCE.json
+!raw/.gitkeep
+# working material of the curation and the parser's review lists, kept locally, not published
+_archive/
+review/
+__pycache__/
